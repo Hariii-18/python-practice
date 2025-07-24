@@ -1,0 +1,2 @@
+w+ mode: This overwrites and allows reading.
+a+ mode: This gets appended at the end.
