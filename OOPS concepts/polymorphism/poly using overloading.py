@@ -1,5 +1,5 @@
 # if the class contians more than one method has same name & 
-# the method contains different datatyoes of parameters or different no if parameters or both is called method overloading
+# the method contains different datatypes of parameters or different no of parameters or both is called method overloading
 from multipledispatch import dispatch
 
 class A:
